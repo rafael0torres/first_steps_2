@@ -1,5 +1,5 @@
   #!/bin/bash
-
+  # Eu sou Tryber e...
   DAY=$(date +%F)
   DIR=$1
   EXT=$2
